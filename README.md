@@ -10,7 +10,7 @@ La procedura di seguito descritta consente l’inserimento nel repository di nuo
  [DPCM 12 ottobre](https://www.governo.it/sites/governo.it/files/DPCM_12_ottobre.pdf) 
  da sottoporre al vaglio del Ministero della Salute. Un esito positivo della 
  valutazione si tradurrà nella pubblicazione della URL del repository contenente 
- il codice sorgente della libreria/SDK in questione all’interno della #lista-librerie.
+ il codice sorgente della libreria/SDK in questione all’interno della [lista](#lista-librerie).
 
 # Requisiti minimi
 
@@ -46,16 +46,16 @@ Per proporre l’inserimento di una nuova libreria/SDK nella lista è necessario
 1. Scaricare dal presente repository il documento denominato [autoDichiarazione.odt](autodichiarazione.odt) e compilarlo.
 2. Inviare a **dgsi@postacert.sanita.it** l’autodichiarazione di cui al punto 1 opportunamente compilata e firmata digitalmente. Tale documento *non* dovrà essere incluso nel repository.
 3. Pubblicare il codice sorgente della propria soluzione all’interno di un repository di titolarità del richiedente secondo le modalità indicate nel paragrafo #requisiti-minimi.
-4. Aprire una [Pull Request](https://github.com/ministero-salute/it-dgc-verificac19-sdk-onboarding/pulls) in questo repository e inserire una nuova riga nella #lista-librerie inserendo le informazioni richieste. 
+4. Aprire una [Pull Request](https://github.com/ministero-salute/it-dgc-verificac19-sdk-onboarding/pulls) in questo repository e inserire una nuova riga nella [lista](#lista-librerie) inserendo le informazioni richieste. 
 
 A questo punto inizierà una fase di validazione di quanto sottoposto per verificare l’effettiva rispondenza delle specifiche tecniche e dei requisiti minimi. 
-In caso di esito positivo, la Pull Request verrà consolidata entro pochi giorni e apparirà all’interno della #lista-librerie.
+In caso di esito positivo, la Pull Request verrà consolidata entro pochi giorni e apparirà all’interno della [lista](#lista-librerie).
 In caso di esito negativo, saranno fornite via email le opportune motivazioni ed eventuali suggerimenti per rendere la libreria aderente ai requisiti minimi.
-Eventuali aggiornamenti futuri delle librerie saranno oggetto di successive valutazioni che potrebbero portare alla rimozione della stessa dalla #lista-librerie ove non fossero rispettati i requisiti minimi.
+Eventuali aggiornamenti futuri delle librerie saranno oggetto di successive valutazioni che potrebbero portare alla rimozione della stessa dalla [lista](#lista-librerie) ove non fossero rispettati i requisiti minimi.
 
 # Policy di accettazione e eventuale rimozione
 
-Oltre a quanto sopra, il Ministero della Salute avrà facoltà esclusiva di eliminare una proposta dalla #lista-librerie nel caso in cui si verifichino una o più delle seguenti condizioni:
+Oltre a quanto sopra, il Ministero della Salute avrà facoltà esclusiva di eliminare una proposta dalla [lista](#lista-librerie) nel caso in cui si verifichino una o più delle seguenti condizioni:
 
 * Il repository non contiene sorgenti di software.
 * Il repository è ospitato in uno strumento di code hosting non accessibile pubblicamente e gratuitamente.
