@@ -3,8 +3,8 @@ Il presente repository contiene un elenco delle librerie per la validazione
 delle **Certificazioni verdi Covid-19** ( Digital Covid Certificate - DCC), 
 anche dette **Green Pass**, aderenti alle specifiche tecniche e ai requisiti 
 implementati dal *Ministero della Salute* all’interno dell’applicazione 
-governativa **VerificaC19** che, per quanto concerne l’ambiente Android, è r
-appresentata all’interno del [repository dedicato](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android).
+governativa **VerificaC19** che, per quanto concerne l’ambiente Android, è rappresentata
+all’interno del [repository dedicato](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android).
 La procedura di seguito descritta consente l’inserimento nel repository di nuove
  librerie/SDK sviluppate in ottemperanza al comma 12 punto a) del 
  [DPCM 12 ottobre](https://www.governo.it/sites/governo.it/files/DPCM_12_ottobre.pdf) 
