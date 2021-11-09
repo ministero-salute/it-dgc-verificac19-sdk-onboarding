@@ -37,7 +37,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 
 | Nome Soluzione | Tecnologia  | Link al Repository | Data Validazione |
 | -----------    | ----------- | -----------        | -----------      | 
-
+| herald-si/verificac19-sdk-php| PHP| https://github.com/herald-si/verificac19-sdk-php | 09/11/2021 |
 
 # Inserimento di una libreria nella lista 
 
