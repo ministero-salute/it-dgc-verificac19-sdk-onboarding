@@ -37,7 +37,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 
 | Nome Soluzione | Tecnologia  | Link al Repository | Data Validazione |
 | -----------    | ----------- | -----------        | -----------      | 
-
+| DgcReader      | .NET / .NET Framework | https://github.com/DevTrevi/DgcReader | 09/11/2021 |
 
 # Inserimento di una libreria nella lista 
 
