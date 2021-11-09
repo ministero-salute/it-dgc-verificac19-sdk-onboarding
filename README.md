@@ -43,7 +43,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 
 Per proporre l’inserimento di una nuova libreria/SDK nella lista è necessario seguire i seguenti passi:
 
-1. Scaricare dal presente repository il documento denominato [autoDichiarazione.odt](autodichiarazione.odt) e compilarlo.
+1. Scaricare dal presente repository il documento denominato [autoDichiarazione.odt](autoDichiarazione.odt) e compilarlo.
 2. Inviare a **dgsi@postacert.sanita.it** l’autodichiarazione di cui al punto 1 opportunamente compilata e firmata digitalmente. Tale documento *non* dovrà essere incluso nel repository.
 3. Pubblicare il codice sorgente della propria soluzione all’interno di un repository di titolarità del richiedente secondo le modalità indicate nel [paragrafo dedicato](#requisiti-minimi).
 4. Aprire una [Pull Request](https://github.com/ministero-salute/it-dgc-verificac19-sdk-onboarding/pulls) in questo repository e inserire una nuova riga nella [lista](#lista-librerie) inserendo le informazioni richieste. 
