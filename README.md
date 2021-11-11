@@ -37,6 +37,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 
 | Nome Soluzione | Tecnologia  | Link al Repository | Data Validazione |
 | -----------    | ----------- | -----------        | -----------      | 
+| ZConnectVerificaC19SDK | IOS native (swift) | https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios | | 
 
 
 # Inserimento di una libreria nella lista 
