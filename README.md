@@ -38,6 +38,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 | Nome Soluzione | Tecnologia  | Link al Repository | Data Validazione |
 | -----------    | ----------- | -----------        | -----------      | 
 | herald-si/verificac19-sdk-php| PHP| https://github.com/herald-si/verificac19-sdk-php | 18/11/2021 |
+| hrnext/it-dgc-verificac19-spring | Java/Spring | https://github.com/hrnext/it-dgc-verificac19-spring |  |
 
 # Inserimento di una libreria nella lista 
 
