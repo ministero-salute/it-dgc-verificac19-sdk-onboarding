@@ -38,7 +38,11 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 | Nome Soluzione | Tecnologia  | Link al Repository | Data Validazione |
 | -----------    | ----------- | -----------        | -----------      | 
 | herald-si/verificac19-sdk-php| PHP| https://github.com/herald-si/verificac19-sdk-php | 18/11/2021 |
-| hrnext/it-dgc-verificac19-spring | Java/Spring | https://github.com/hrnext/it-dgc-verificac19-spring |  |
+| ZConnectVerificaC19SDK | IOS native (swift) | https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios | 07/12/2021 | 
+| DgcReader      | .NET / .NET Framework | https://github.com/DevTrevi/DgcReader | 07/12/2021 |
+| verificac19-sdk   | Node.js | https://github.com/italia/verificac19-sdk      | 08/12/2021    | 
+| solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux| C++| https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux| 10/12/2021 |
+| hrnext/it-dgc-verificac19-spring | Java/Spring | https://github.com/hrnext/it-dgc-verificac19-spring | 17/12/2021 |
 
 # Inserimento di una libreria nella lista 
 
