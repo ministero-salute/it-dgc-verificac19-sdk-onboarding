@@ -7,7 +7,7 @@ a rimanere in linea con le modifiche.
 ## [1.1.1] - 27/12/2021
 
 ### Aggiunto
-- Modalità Booster (se modalità BOOSTER è attiva allora sono considerati validi solo i certificati vaccinali a seguito di dose richiamo/booster e quelli di completamento del ciclo vaccinale, richiedendo per questi ultimi ulteriore validazione di un test)
+- Modalità Booster (se la modalità BOOSTER è attiva allora sono considerati validi solo i certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster) e quelli rilasciati al completamento del ciclo vaccinale, richiedendo per questi ultimi una ulteriore validazione di un tampone)
 
 ## [1.1.0] - 21/12/2021
 
