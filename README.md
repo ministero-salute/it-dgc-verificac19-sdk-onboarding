@@ -48,6 +48,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 | verificac19-sdk   | Node.js | https://github.com/italia/verificac19-sdk      | 08/12/2021    | 
 | solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux| C++| https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux| 10/12/2021 |
 | hrnext/it-dgc-verificac19-spring | Java/Spring | https://github.com/hrnext/it-dgc-verificac19-spring | 16/12/2021 |
+| mastro993/verificac19-flutter | Flutter (Dart) | https://github.com/mastro993/verificaC19-flutter | |
 
 # Inserimento di una libreria nella lista 
 
