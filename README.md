@@ -36,6 +36,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 ## Documenti
 - [📄 Documentazione SDK dettagliata](https://ministero-salute.github.io/it-dgc-verificac19-sdk-android/documentation/)
 - [📄 Documentazione Digital Green Certificate Revocation List (DRL)](https://github.com/ministero-salute/it-dgc-documentation/blob/master/DRL.md)
+- [📄 Documentazione Tipologie di Verifica DGC (ScanMode)](https://github.com/ministero-salute/it-dgc-documentation/blob/master/SCANMODE.md)
 - [📄 Digital Green Certificate descrizione ad alto livello](https://github.com/ministero-salute/it-dgc-documentation)
 
 # Lista Librerie
