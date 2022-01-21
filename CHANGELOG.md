@@ -4,6 +4,11 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.2.0] - 22/01/2022
+
+### Aggiunto
+- Certificati di esenzione, [qui](https://github.com/ministero-salute/it-dgc-documentation/blob/master/EXEMPTIONS.md) la documentazione)
+
 ## [1.1.1] - 27/12/2021
 
 ### Aggiunto
