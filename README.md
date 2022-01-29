@@ -46,7 +46,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 | [herald-si/verificac19-sdk-php](https://github.com/herald-si/verificac19-sdk-php)| PHP| 18/11/2021 |  ✅<br>Da v1.0.5      |  ✅<br>Da v1.1.0       |  ✅<br>Da v1.2.0      | ✅<br>Da v1.3.0      | 
 | [ZConnectVerificaC19SDK](https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios) | IOS native (swift) | 07/12/2021 |  ✅<br>Da v1.0.4   |  ✅<br>Da v1.1.0       |  ✅<br>Da v1.1.1       | ✅<br>Da v1.1.2      | 
 | [DgcReader](https://github.com/DevTrevi/DgcReader) | .NET / .NET Framework | 07/12/2021 | ✅<br>Da v1.3.0 | ✅<br>Da v2.0.0 | ✅<br>Da v2.1.0 | ❌ |
-| [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>Da v0.5.0     |  ✅<br>Da v0.6.0     | ✅<br>Da v0.7.0   | ❌ |
+| [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>Da v0.5.0     |  ✅<br>Da v0.6.0     | ✅<br>Da v0.7.0   | ✅<br>Da v0.8.0 |
 | [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>Da v1.0.4       |   ✅<br>Da v1.1.2      |   ✅<br>Da v1.1.1      | ❌ |
 | [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>Da v0.0.2      |  ✅<br>Da v0.0.3      |  ✅<br>Da v0.0.3      |  ❌ |
 
