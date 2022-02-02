@@ -17,6 +17,7 @@ il codice sorgente della libreria/SDK in questione all’interno della [lista](#
 
 Il canale relativo alle questioni tecniche riguardanti l'implementazione e l'utilizzo degli SDK si trova su [Slack Developers Italia](https://developersitalia.slack.com/archives/C030BJEGEN8).
 
+[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 [![Join the #dcc-sdk channel](https://img.shields.io/badge/Slack%20channel-%23dcc--sdk-blue.svg)](https://developersitalia.slack.com/archives/C030BJEGEN8)
 
 ## Requisiti minimi
