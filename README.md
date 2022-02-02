@@ -1,4 +1,7 @@
-# Introduzione
+# VerificaC19 SDK Onboarding
+
+
+## Introduzione
 Il presente repository contiene un elenco delle librerie per la validazione 
 delle **Certificazioni verdi Covid-19** ( Digital Covid Certificate - DCC), 
 anche dette **Green Pass**, aderenti alle specifiche tecniche e ai requisiti 
@@ -6,13 +9,17 @@ implementati dal *Ministero della Salute* all’interno dell’applicazione
 governativa **VerificaC19** che, per quanto concerne l’ambiente Android, è rappresentata
 all’interno del [repository dedicato](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android).
 La procedura di seguito descritta consente l’inserimento nel repository di nuove
- librerie/SDK sviluppate in ottemperanza al comma 12 punto a) del 
- [DPCM 12 ottobre](https://www.governo.it/sites/governo.it/files/DPCM_12_ottobre.pdf) 
- da sottoporre al vaglio del Ministero della Salute. Un esito positivo della 
- valutazione si tradurrà nella pubblicazione della URL del repository contenente 
- il codice sorgente della libreria/SDK in questione all’interno della [lista](#lista-librerie).
+librerie/SDK sviluppate in ottemperanza al comma 12 punto a) del 
+[DPCM 12 ottobre](https://www.governo.it/sites/governo.it/files/DPCM_12_ottobre.pdf) 
+da sottoporre al vaglio del Ministero della Salute. Un esito positivo della 
+valutazione si tradurrà nella pubblicazione della URL del repository contenente 
+il codice sorgente della libreria/SDK in questione all’interno della [lista](#lista-librerie).
 
-# Requisiti minimi
+Il canale relativo alle questioni tecniche riguardanti l'implementazione e l'utilizzo degli SDK si trova su [Slack Developers Italia](https://developersitalia.slack.com/archives/C030BJEGEN8).
+
+[![Join the #dcc-sdk channel](https://img.shields.io/badge/Slack%20channel-%23dcc--sdk-blue.svg)](https://developersitalia.slack.com/archives/C030BJEGEN8)
+
+## Requisiti minimi
 
 1. Tutto il codice sorgente deve essere pubblicato in modalità open source, 
 ovvero deve essere reso disponibile all’interno di un repository pubblicamente 
@@ -25,7 +32,7 @@ modalità real-time.
 4. Il risultato della verifica non deve essere utilizzato per finalità non 
 regolamentate dalle norme vigenti.
 
-# Specifiche tecniche
+## Specifiche tecniche
 Si veda come riferimento il [repository dell'SDK ufficiale](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/blob/develop/README.md) e la [documentazione](https://ministero-salute.github.io/it-dgc-verificac19-sdk-android/documentation/) riguardante la soluzione SDK 
 Android.
 Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
@@ -33,13 +40,13 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
  e il seguente sequence diagram applicato alla soluzione SDK Android:
 ![Schema Descrizione Android](schema.png)
 
-## Documenti
+### Documenti
 - [📄 Documentazione SDK dettagliata](https://ministero-salute.github.io/it-dgc-verificac19-sdk-android/documentation/)
 - [📄 Documentazione Digital Green Certificate Revocation List (DRL)](https://github.com/ministero-salute/it-dgc-documentation/blob/master/DRL.md)
 - [📄 Documentazione Tipologie di Verifica DGC (ScanMode)](https://github.com/ministero-salute/it-dgc-documentation/blob/master/SCANMODE.md)
 - [📄 Digital Green Certificate descrizione ad alto livello](https://github.com/ministero-salute/it-dgc-documentation)
 
-# Lista Librerie
+## Lista Librerie
 
 | Nome Soluzione | Tecnologia  | Data Validazione | Verifica GP Rafforzato | Supporto DRL | Verifica Booster | Verifica Esenzioni |
 | -----------    | :-: | :-:      |  :-:      |  :-:      |  :-:      |  :-:      | 
@@ -50,7 +57,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 | [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>Da v1.0.4       |   ✅<br>Da v1.1.2      |   ✅<br>Da v1.1.1      | ❌ |
 | [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>Da v0.0.2      |  ✅<br>Da v0.0.3      |  ✅<br>Da v0.0.3      |  ❌ |
 
-# Inserimento di una libreria nella lista 
+## Inserimento di una libreria nella lista 
 
 Per proporre l’inserimento di una nuova libreria/SDK nella lista è necessario seguire i seguenti passi:
 
@@ -64,7 +71,7 @@ In caso di esito positivo, la Pull Request verrà consolidata entro pochi giorni
 In caso di esito negativo, saranno fornite via email le opportune motivazioni ed eventuali suggerimenti per rendere la libreria aderente ai requisiti minimi.
 Eventuali aggiornamenti futuri delle librerie saranno oggetto di successive valutazioni che potrebbero portare alla rimozione della stessa dalla [lista](#lista-librerie) ove non fossero rispettati i requisiti minimi. Per rimanere allineati alle ultime modifiche è possibile consultare il file di [CHANGELOG](CHANGELOG.md).
 
-# Policy di accettazione e eventuale rimozione
+## Policy di accettazione e eventuale rimozione
 
 Oltre a quanto sopra, il Ministero della Salute avrà facoltà esclusiva di eliminare una proposta dalla [lista](#lista-librerie) nel caso in cui si verifichino una o più delle seguenti condizioni:
 
@@ -82,7 +89,7 @@ Oltre a quanto sopra, il Ministero della Salute avrà facoltà esclusiva di elim
     * repository con contenuti illegali, commerciali o che violano norme di legge;
     * che non permette di capire lo scopo, le finalità e i requisiti del software.
 
-# Risorse esterne 
+## Risorse esterne 
 
 * [README SDK Android](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/blob/develop/README.md)
 * [Documentazione SDK Android](https://ministero-salute.github.io/it-dgc-verificac19-sdk-android/documentation/)
