@@ -4,6 +4,23 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.4] - 04/02/2022
+
+### Aggiunto
+
+- Modalità Studenti, se la modalità STUDENTI è attiva allora sono considerati validi solo :
+
+- - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster)
+- - certificati vaccinali rilasciati al completamento del ciclo vaccinale & emessi da meno di 120 giorni
+- - certificati di guarigione emessi da meno di 120 giorni
+- - certificati di esenzione vaccinale
+
+## [1.1.3] - 30/01/2022
+
+### Aggiunto
+
+- Supporto alle nuove Medicinal Rules differenziate IT / NOT_IT introdotte in Validation Rules per i valori di start/end dei certificati vaccinali e di guarigione
+
 ## [1.1.2] - 22/01/2022
 
 ### Aggiunto
