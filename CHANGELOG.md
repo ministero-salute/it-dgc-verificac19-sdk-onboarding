@@ -10,21 +10,21 @@ a rimanere in linea con le modifiche.
 
 - Modalità **Lavoro** = se la modalità `LAVORO` è attiva, sono considerati validi solo :
 
-- - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster)
-- - certificati vaccinali rilasciati al completamento del ciclo vaccinale
+- - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster) **(!)**
+- - certificati vaccinali rilasciati al completamento del ciclo vaccinale **(!)**
 - - certificati di guarigione
 - - certificati di esenzione vaccinale
 - - certificati di tamponi PCR/RAT negativi & rilasciati a soggetti aventi meno di 50 anni di età
+
+> **(!)** _sulla base del tipo di vaccino o ciclo completato da più di 180gg e fino a 270gg può richiedere la contestuale presentazione di un esito negativo di un test al SARS-CoV-2 eseguito nelle 48 ore precedenti_
 <br>
 
 - Modalità **Ingresso IT** = se la modalità `INGRESSO IT` è attiva, sono applicate le regole di validazione europee per la circolazione tra gli Stati Membri, considerando validi :
 
 - - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster)
-- - certificati vaccinali rilasciati al completamento del ciclo vaccinale **(!)**
+- - certificati vaccinali rilasciati al completamento del ciclo vaccinale 
 - - certificati di guarigione
 - - certificati di tamponi PCR/RAT negativi
-
-> **(!)** _sulla base del tipo di vaccino o ciclo completato da più di 180gg e fino a 270gg può richiedere la contestuale presentazione di un esito negativo di un test al SARS-CoV-2 eseguito nelle 48 ore precedenti_
 
 ## [1.1.4] - 04/02/2022
 
