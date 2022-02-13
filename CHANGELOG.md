@@ -8,29 +8,21 @@ a rimanere in linea con le modifiche.
 
 ### Aggiunto
 
-- Modalità **Lavoro** = se la modalità `LAVORO` è attiva, sono considerati validi solo :
+- Modalità **Lavoro** = se la modalità `LAVORO` è attiva, la validazione dei certificati di vaccinazione/guarigione/tampone & esenzione avviene secondo le regole di :
 
-- - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster) **(!)**
-- - certificati vaccinali rilasciati al completamento del ciclo vaccinale **(!)**
-- - certificati di guarigione
-- - certificati di esenzione vaccinale
-- - certificati di tamponi PCR/RAT negativi & rilasciati a soggetti aventi meno di 50 anni di età
+- - modalità `BASE` (3G) quando intestatario ha meno di 50 anni di età
+- - modalità `RAFFORZATA` (2G) quando intestatario ha già compiuto i 50 anni di età **(!)**
 
 > **(!)** _sulla base del tipo di vaccino o ciclo completato da più di 180gg e fino a 270gg può richiedere la contestuale presentazione di un esito negativo di un test al SARS-CoV-2 eseguito nelle 48 ore precedenti_
 <br>
 
-- Modalità **Ingresso IT** = se la modalità `INGRESSO IT` è attiva, sono applicate le regole di validazione europee per la circolazione tra gli Stati Membri, considerando validi :
-
-- - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster)
-- - certificati vaccinali rilasciati al completamento del ciclo vaccinale 
-- - certificati di guarigione
-- - certificati di tamponi PCR/RAT negativi
+- Modalità **Ingresso IT** = se la modalità `INGRESSO IT` è attiva, sono applicate le regole di validazione europee per la circolazione tra gli Stati Membri.
 
 ## [1.1.4] - 04/02/2022
 
 ### Aggiunto
 
-- Modalità **Studenti** = se la modalità `STUDENTI` è attiva, sono considerati validi :
+- Modalità **Studenti** = se la modalità `STUDENTI` è attiva, sono considerati validi solo :
 
 - - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster)
 - - certificati vaccinali rilasciati al completamento del ciclo vaccinale & emessi da meno di 120 giorni
