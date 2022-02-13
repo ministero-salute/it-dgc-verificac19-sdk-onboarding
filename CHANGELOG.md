@@ -4,7 +4,7 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
-## [1.1.5] - 14/02/2022
+## [1.1.5] - 13/02/2022
 
 ### Aggiunto
 
