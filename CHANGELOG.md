@@ -13,7 +13,7 @@ a rimanere in linea con le modifiche.
 - - modalità `BASE` (3G) quando intestatario ha meno di 50 anni di età
 - - modalità `RAFFORZATA` (2G) quando intestatario ha già compiuto i 50 anni di età **(!)**
 
-> **(!)** _sulla base del tipo di vaccino o ciclo completato da più di 180gg e fino a 270gg può richiedere la contestuale presentazione di un esito negativo di un test al SARS-CoV-2 eseguito nelle 48 ore precedenti_
+> **(!)** _sulla base del tipo di vaccino (autorizzato EMA o meno) o ciclo completato da più di 180gg e fino a 270gg le validazioni in modalità `RAFFORZATA` (2G) possono richiedere la contestuale presentazione di un esito negativo di un test al SARS-CoV-2 eseguito nelle 48 ore precedenti_
 <br>
 
 - Modalità **Ingresso IT** = se la modalità `INGRESSO IT` è attiva, sono applicate le regole di validazione europee per la circolazione tra gli Stati Membri.
