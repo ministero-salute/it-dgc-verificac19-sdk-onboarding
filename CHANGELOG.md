@@ -29,6 +29,8 @@ a rimanere in linea con le modifiche.
 - - certificati di guarigione emessi da meno di 120 giorni
 - - certificati di esenzione vaccinale
 
+> **(!)** _Questa modalità prevede il solo utilizzo dell'app Verifica C19, pertanto non deve essere implementata all'interno degli SDK_
+
 ## [1.1.3] - 30/01/2022
 
 ### Aggiunto
