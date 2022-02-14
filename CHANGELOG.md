@@ -4,7 +4,7 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
-## [1.1.5] - 13/02/2022
+## [1.1.5] - 14/02/2022
 
 ### Aggiunto
 
@@ -17,6 +17,8 @@ a rimanere in linea con le modifiche.
 <br>
 
 - Modalità **Ingresso IT** = se la modalità `INGRESSO IT` è attiva, sono applicate le regole di validazione europee per la circolazione tra gli Stati Membri.
+- Riviste regole secondo l’ultimo Decreto Legge
+- Nuove regole vaccini NON IT
 
 ## [1.1.4] - 04/02/2022
 
