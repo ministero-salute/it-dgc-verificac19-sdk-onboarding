@@ -4,6 +4,41 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.5] - 14/02/2022
+
+### Aggiunto
+
+- Modalità **Lavoro** = se la modalità `LAVORO` è attiva, la validazione dei certificati di vaccinazione/guarigione/tampone & esenzione avviene secondo le regole di :
+
+- - modalità `BASE` (3G) quando intestatario ha meno di 50 anni di età
+- - modalità `RAFFORZATA` (2G) quando intestatario ha già compiuto i 50 anni di età **(!)**
+
+> **(!)** _sulla base del tipo di vaccino (autorizzato EMA o meno) o ciclo completato da più di 180gg e fino a 270gg le validazioni in modalità `RAFFORZATA` (2G) possono richiedere la contestuale presentazione di un esito negativo di un test al SARS-CoV-2 eseguito nelle 48 ore precedenti_
+<br>
+
+- Modalità **Ingresso IT** = se la modalità `INGRESSO IT` è attiva, sono applicate le regole di validazione europee per la circolazione tra gli Stati Membri.
+- Riviste regole secondo l’ultimo Decreto Legge
+- Nuove regole vaccini NON IT
+
+## [1.1.4] - 04/02/2022
+
+### Aggiunto
+
+- Modalità **Studenti** = se la modalità `STUDENTI` è attiva, sono considerati validi solo :
+
+- - certificati vaccinali rilasciati a seguito della somministrazione di una dose di richiamo (booster)
+- - certificati vaccinali rilasciati al completamento del ciclo vaccinale & emessi da meno di 120 giorni
+- - certificati di guarigione emessi da meno di 120 giorni
+- - certificati di esenzione vaccinale
+
+> **(!)** _Questa modalità prevede il solo utilizzo dell'app Verifica C19, pertanto non deve essere implementata all'interno degli SDK_
+
+## [1.1.3] - 30/01/2022
+
+### Aggiunto
+
+- Supporto alle nuove Medicinal Rules differenziate IT / NOT_IT introdotte in Validation Rules per i valori di start/end dei certificati vaccinali e di guarigione
+
 ## [1.1.2] - 22/01/2022
 
 ### Aggiunto
