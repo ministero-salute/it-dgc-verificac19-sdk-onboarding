@@ -12,9 +12,9 @@ Cosa porta questa PR: ...
 - [ ] C'è un README e una documentazione chiara per il funzionamento, l'installazione e l'integrazione
 
 ### Funzionamento generico
-- [ ] I dati dei Digital Green Certificate (DGC) non vengono salvati 
-- [ ] Non ci sono trasmissioni in rete delle informazioni dei DGC
-- [ ] La verifica della validità dei DGC è offline
+- [ ] I dati dei Digital Covid Certificate (DCC) non vengono salvati 
+- [ ] Non ci sono trasmissioni in rete delle informazioni dei DCC
+- [ ] La verifica della validità dei DCC è offline
 
 ### Certificati di firma (DSC)
 - [ ] C'è una funzione che scarica i DSC da https://get.dgc.gov.it/v1/dgc/signercertificate/update e https://get.dgc.gov.it/v1/dgc/signercertificate/status
@@ -24,8 +24,8 @@ Cosa porta questa PR: ...
 ### Settings
 - [ ] C'è una funzione che scarica i settings (https://get.dgc.gov.it/v1/dgc/settings)
 - [ ] C'è una funzione di controllo della freschezza dei settings scaricati (massimo 24 ore)
-- [ ] La verifica della validità del DGC applica le regole sanitarie date dai settings
-- [ ] La verifica della validità del DGC applica la blacklist in `black_list_uvci`
+- [ ] La verifica della validità del DCC applica le regole sanitarie date dai settings
+- [ ] La verifica della validità del DCC applica la blacklist in `black_list_uvci`
 
 ### Certificate Revocation List (CRL)
 - [ ] C'è una funzione che [scarica la CRL e gestisce il resume dello scaricamento](https://github.com/ministero-salute/it-dgc-documentation/blob/master/DRL.md#documentazione)
@@ -48,8 +48,8 @@ Cosa porta questa PR: ...
 ### Validità
 Il risultato della verifica di validità è uno di questi possibili stati:
 
-- [ ] `VALID` (il DGC è valido)
-- [ ] `TEST_NEEDED` (nella modalità di verifica "BOOSTER", si necessita di test)
+- [ ] `VALID` (il DCC è valido)
+- [ ] `TEST_NEEDED` (nella modalità di verifica "Visitatori RSA", si necessita di test)
 - [ ] `NOT_VALID_YET` (il certificato non è ancora valido)
 - [ ] `NOT_VALID` (il certificato non è valido)
 - [ ] `REVOKED` (il certificato è stato revocato)
