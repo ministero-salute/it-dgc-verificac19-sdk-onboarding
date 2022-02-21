@@ -36,23 +36,18 @@ Cosa porta questa PR: ...
 - [ ] Esistenza della verifica della vaccinazione (tempi di vaccinazione e tipologie dei vaccini)
 - [ ] Esistenza della verifica in caso di guarigione e check sui tempi
 - [ ] Gestisce i vaccini EMA/Non EMA compreso il caso speciale San Marino (Sputnik-V valido solo nel caso di vaccinazione a San Marino)
-- [ ] Esistenza della verifica in modalità "Super Green Pass"
-- [ ] Esistenza della verifica in modalità Visitatori RSA (ex Booster)
-- [ ] Esistenza della verifica in modalità Lavoro
-- [ ] Esistenza della verifica in modalità Ingresso in Italia
+- [ ] Esistenza delle 6 modalità di verifica, 5 delle quali devono essere implementate nel SDK
+    - [ ] Base
+    - [ ] Rafforzata
+    - [ ] Visitatori RSA
+    - [ ] Lavoro
+    - [ ] Ingresso IT
 
 ### Dati malformati
 - [ ] Rifiuta Base45 con encoding errato ([testcase](https://github.com/eu-digital-green-certificates/dgc-testdata/blob/main/common/2DCode/raw/B1.json))
 - [ ] Rifiuta DGC non corretti ([testcase](https://github.com/eu-digital-green-certificates/dgc-testdata/blob/main/common/2DCode/raw/DGC1.json))
 
 ### Validità
-Il risultato della verifica di validità è uno di questi possibili stati:
-
-- [ ] `VALID` (il DCC è valido)
-- [ ] `TEST_NEEDED` (nella modalità di verifica "Visitatori RSA", si necessita di test)
-- [ ] `NOT_VALID_YET` (il certificato non è ancora valido)
-- [ ] `NOT_VALID` (il certificato non è valido)
-- [ ] `REVOKED` (il certificato è stato revocato)
-- [ ] `NOT_EU_DCC` (il certificato non è un EU DCC valido)
+- [ ] Il risultato della verifica di validità è uno dei [possibili stati di VerificaC19 DCC SDK](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/blob/develop/sdk/src/main/java/it/ministerodellasalute/verificaC19sdk/model/CertificateStatus.kt#L29-L37)
 
 <!--- Il repository https://github.com/eu-digital-green-certificates/dgc-testdata ha testcase utili per controllare la correttezza delle librerie -->
