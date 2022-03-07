@@ -49,6 +49,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 
 ## Lista Librerie
 
+
 | Nome Soluzione | Tecnologia  | Data Validazione | Verifica GP Rafforzato | Supporto DRL | Verifica Booster | Verifica Esenzioni | Verifica Visitatori RSA | Verifica lavoro | Verifica Ingresso Italia | Regole DL 4 Feb |
 | -----------    | :-: | :-:      |  :-:      |  :-:      |  :-:      |  :-:      | :-:      | :-:      |  :-:      |  :-:      | 
 | [herald-si/verificac19-sdk-php](https://github.com/herald-si/verificac19-sdk-php)| PHP| 18/11/2021 |  ✅<br>Da v1.0.5      |  ✅<br>Da v1.1.0       |  ✅<br>Da v1.2.0      | ✅<br>Da v1.3.0      | ✅<br>Da v1.5.0    | ✅<br>Da v1.5.0    | ✅<br>Da v1.5.0    |  ✅<br>Da v1.5.0    | 
@@ -57,6 +58,7 @@ Inoltre, l’allegato H del DPCM 12 ottobre al punto 2, denominato *VERIFICA
 | [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>Da v0.5.0     |  ✅<br>Da v0.6.0     | ✅<br>Da v0.7.0   | ✅<br>Da v0.8.0 |  ✅<br>Da v0.9.0   | ✅<br>Da v0.9.0    | ✅<br>Da v0.9.0   |  ✅<br>Da v0.9.0   | 
 | [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>Da v1.0.4       |   ✅<br>Da v1.1.2      |   ✅<br>Da v1.1.1      | ✅<br>Da v1.1.3 | ✅<br>Da v1.1.7    | ✅<br>Da v1.1.3    | ✅<br>Da v1.1.7    |  ✅<br>Da v1.1.7    | 
 | [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>Da v0.0.2      |  ✅<br>Da v0.0.3      |  ✅<br>Da v0.0.3      |  ✅<br>Da v0.0.4 |  ✅<br>Da v0.1.0    |  ✅<br>Da v0.1.0    |  ✅<br>Da v0.1.0    |   ✅<br>Da v0.1.0    | 
+| [mastro993/verificac19-flutter](https://github.com/mastro993/verificaC19-flutter) | Dart/Flutter |  07/03/2022 | ✅<br>Da v1.0.10      |  ✅<br>Da v1.1.0       |  ✅<br>Da v1.2.0      |  ✅<br>Da v1.2.3      |  ✅<br>Da v1.4.2  |  ✅<br>Da v1.4.0  |  ✅<br>Da v1.4.0  |  ✅<br>Da v1.4.0 |
 
 ## Inserimento di una libreria nella lista 
 
