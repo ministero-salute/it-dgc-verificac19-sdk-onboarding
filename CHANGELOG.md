@@ -4,6 +4,14 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.6] - 08/03/2022
+
+### Aggiunto
+
+- Recupero di opzioni + descrizioni scanmode da [Validation Rules](https://get.dgc.gov.it/v1/dgc/settings)
+- Predisposizione flusso DOUBLE_SCAN per verifiche TEST_NEEDED 
+
+
 ## [1.1.5] - 14/02/2022
 
 ### Aggiunto
