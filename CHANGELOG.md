@@ -4,6 +4,13 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.7] - Da rilasciare - entrato in vigore
+
+### Aggiunto
+
+- Rimozione della modalità lavoro
+- Aggiunto custom header nelle richieste
+
 ## [1.1.6] - 08/03/2022
 
 ### Aggiunto
