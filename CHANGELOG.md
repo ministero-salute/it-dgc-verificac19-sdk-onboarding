@@ -4,6 +4,23 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.8] - 05/04/2022
+
+### Aggiunto
+
+- Nuova modalità di ingresso IT con regole per ingresso a utenti di età inferiore ai 18 anni. Commit di riferimento [qui](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/commit/93e3b64e1d5016f0887b1a153147b35a51d06954)
+- Rimozione della modalità lavoro e scuole
+
+## [1.1.7] - 30/03/2022
+
+### Aggiunto
+
+- Aggiunto custom header nelle richieste
+
+### Risolto
+
+- Fix su certificato CBIS
+
 ## [1.1.6] - 08/03/2022
 
 ### Aggiunto
