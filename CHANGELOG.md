@@ -4,6 +4,12 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.9] - 19/04/2022
+
+### Aggiunto
+
+- Nuovi Certificati LEAF+BACKUP per SSL pinning. Commit di riferimento [qui](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/commit/4742dc61e70ea5d26d404e280e725c2becc45cfb)
+ 
 ## [1.1.8] - 05/04/2022
 
 ### Aggiunto
