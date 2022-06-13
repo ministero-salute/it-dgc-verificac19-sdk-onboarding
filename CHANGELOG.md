@@ -4,6 +4,12 @@ Tutte le modifiche più importanti effettuate sull'SDK di riferimento
 saranno riportate in questo documento, al fine di aiutare gli altri sviluppatori
 a rimanere in linea con le modifiche.
 
+## [1.1.10] - 13/06/2022
+
+### Aggiunto
+
+- Rimozione della modalità Ingresso IT
+
 ## [1.1.9] - 19/04/2022
 
 ### Aggiunto
@@ -15,7 +21,7 @@ a rimanere in linea con le modifiche.
 ### Aggiunto
 
 - Nuova modalità di ingresso IT con regole per ingresso a utenti di età inferiore ai 18 anni. Commit di riferimento [qui](https://github.com/ministero-salute/it-dgc-verificac19-sdk-android/commit/93e3b64e1d5016f0887b1a153147b35a51d06954)
-- Rimozione della modalità lavoro e scuole
+- Rimozione delle modalità Lavoro e Studenti
 
 ## [1.1.7] - 30/03/2022
 
